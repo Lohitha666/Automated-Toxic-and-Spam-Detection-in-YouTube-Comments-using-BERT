@@ -79,13 +79,19 @@ http://127.0.0.1:5000/predict?text=Your+comment+here
 ✔️ **Can be deployed on cloud platforms** (AWS, GCP, etc.)  
 
 ## 📸 Output Screenshots  
-![Training Graph](assets/Picture1.png)   
-![Training Graph](assets/Picture2.png)   
-![Training Graph](assets/Picture3.png)   
-![Training Graph](assets/Picture4.png)   
-![Training Graph](assets/Picture5.png)   
-![Training Graph](assets/Picture6.png)   
-![Training Graph](assets/Picture7.png)   
+## 📸 Output Screenshots  
+
+### 🔹 Training Graphs  
+<img src="assets/Picture1.png" width="45%"> <img src="assets/Picture2.png" width="45%">  
+
+### 🔹 Model Performance  
+<img src="assets/Picture3.png" width="45%"> <img src="assets/Picture4.png" width="45%">  
+
+### 🔹 Prediction Examples  
+<img src="assets/Picture5.png" width="45%"> <img src="assets/Picture6.png" width="45%">  
+
+### 🔹 Web API Interface  
+<img src="assets/Picture7.png" width="50%">  
 
 ## 🤝 Contributing  
 Want to contribute? Follow these steps:  
