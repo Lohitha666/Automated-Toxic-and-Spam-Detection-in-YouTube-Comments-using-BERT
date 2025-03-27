@@ -78,23 +78,11 @@ http://127.0.0.1:5000/predict?text=Your+comment+here
 ✔️ **Supports API integration** for automated moderation  
 ✔️ **Can be deployed on cloud platforms** (AWS, GCP, etc.)  
 
-## 📸 Output Screenshots  
-### **Model Training Progress**  
-![Training Graph](assets/training.png)  
-
-### **Prediction Example**  
+## 📸 Output Screenshots   
+![Training Graph](assets/training.png)   
 ![Prediction Example](assets/prediction.png)  
-
-### **Web API Interface**  
 ![API Screenshot](assets/api.png)  
 
-## 🛠️ Technologies Used  
-- **Machine Learning**: BERT (Hugging Face Transformers)  
-- **Deep Learning**: TensorFlow / PyTorch  
-- **Natural Language Processing (NLP)**: Tokenization, Sentiment Analysis  
-- **Data Handling**: Pandas, NumPy  
-- **Backend (API Deployment)**: Flask / FastAPI  
-- **Visualization**: Matplotlib, Seaborn  
 
 ## 🤝 Contributing  
 Want to contribute? Follow these steps:  
