@@ -79,13 +79,13 @@ http://127.0.0.1:5000/predict?text=Your+comment+here
 ✔️ **Can be deployed on cloud platforms** (AWS, GCP, etc.)  
 
 ## 📸 Output Screenshots  
-![Training Graph](assets/picture1.png)   
-![Training Graph](assets/picture2.png)   
-![Training Graph](assets/picture3.png)   
-![Training Graph](assets/picture4.png)   
-![Training Graph](assets/picture5.png)   
-![Training Graph](assets/picture6.png)   
-![Training Graph](assets/picture7.png)   
+![Training Graph](assets/Picture1.png)   
+![Training Graph](assets/Picture2.png)   
+![Training Graph](assets/Picture3.png)   
+![Training Graph](assets/Picture4.png)   
+![Training Graph](assets/Picture5.png)   
+![Training Graph](assets/Picture6.png)   
+![Training Graph](assets/Picture7.png)   
 
 ## 🤝 Contributing  
 Want to contribute? Follow these steps:  
