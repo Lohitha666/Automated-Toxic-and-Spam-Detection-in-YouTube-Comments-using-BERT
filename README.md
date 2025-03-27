@@ -78,11 +78,14 @@ http://127.0.0.1:5000/predict?text=Your+comment+here
 ✔️ **Supports API integration** for automated moderation  
 ✔️ **Can be deployed on cloud platforms** (AWS, GCP, etc.)  
 
-## 📸 Output Screenshots   
-![Training Graph](assets/training.png)   
-![Prediction Example](assets/prediction.png)  
-![API Screenshot](assets/api.png)  
-
+## 📸 Output Screenshots  
+![Training Graph](assets/picture1.png)   
+![Training Graph](assets/picture2.png)   
+![Training Graph](assets/picture3.png)   
+![Training Graph](assets/picture4.png)   
+![Training Graph](assets/picture5.png)   
+![Training Graph](assets/picture6.png)   
+![Training Graph](assets/picture7.png)   
 
 ## 🤝 Contributing  
 Want to contribute? Follow these steps:  
